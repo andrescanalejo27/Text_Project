@@ -2,12 +2,6 @@
 
 This project aims to develop an innovative Song Creation Artificial Intelligence (AI) system using Long Short-Term Memory (LSTM) networks. By leveraging the power of deep learning and sequence modeling, our AI model is designed to compose original and compelling lyrics. The LSTM architecture enables the AI to capture intricate patterns and dependencies within music, allowing it to generate coherent and expressive compositions. Through this project, we hope to push the boundaries of music creation by combining human creativity with the capabilities of AI.
 
-### Prerequisites
-
-- Install `python3`
-
-- Install `packages`
-
 ### Instructions for Setting up the Generator
 
 These are the instructions for using the models. Because of the size of those models they could not be uploaded in here. The script to train them is in SongsText.ipynb.
@@ -28,25 +22,43 @@ beginning = "Michael Jordan is"
 n_words = 155
 complete_this_song(beginning, n_words)
 ```
-"Michael Jordan is it done y girl free i'm just out in the world
+__"Michael Jordan is it done y girl free i'm just out in the world
+
 you know you're love to you know
+
 it's a secret in all and the sky i love found all my life
+
 i've been afraid of me, i've been afraid by i've been tryna by you i've been thinking
+
 i've been dreaming of you 
+
 i've been dreaming of you 
+
 i've been dreaming of you, dreaming of you, been dreaming of you
+
 i've been dreaming of you, dreaming of you all of your life,
+
 i've been dreaming of you 
+
 i've been dreaming of you 
+
 i've been dreaming of you, dreaming of you all my life,
+
 i've been dreaming of you 
+
 i've been dreaming of you 
+
 i've been dreaming of you, dreaming of you all my life,
+
 i've been dreaming of you 
+
 i've been dreaming of you 
+
 i've been dreaming of you, dreaming of you all my life,
+
 i've been dreaming of you 
-i've been dreaming of"
+
+i've been dreaming of"__
 
 With the model trained with all songs we get:
 ```
@@ -54,30 +66,53 @@ beginning = "Is this love"
 n_words = 300
 complete_this_song(beginning, n_words)
 ```
-"is this love you' h town
+__"Is this love you' h town
+
 i'm coming in it with our love
+
 i'm so good for my body
+
 i know you for you all
+
 that you must not the one to the left to the left
+
 everything you want to the good of your heart
+
 everything you were the one i hoped i was
+
 just a way you a way you know how i saw the real you
+
 thank god you blew it
+
 thank god i dodged the bullet
+
 i'm so over you so baby good lookin' out
+
 i wanted you bad i'm so through with it
+
 cuz honestly you turned out to be the best thing i never ha
+
 and i'm gon' always be the best thing you never had
+
 i bet it sucks to be you right now so sad you're hurt boo hoo
+
 oh did you expect me to care
+
 you don't deserve my tears
+
 i guess that's why they ain't there
+
 when i think that there was a time that i almost loved you
+
 you showed you ass and i saw the real you
+
 thank god you blew it
+
 thank god i dodged the bullet
+
 i'm so over you so baby good lookin' out
-i wanted you bad"
+
+i wanted you bad"__
 
 ## Conclusions
 
