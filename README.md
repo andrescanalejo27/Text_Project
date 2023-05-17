@@ -30,33 +30,33 @@ __it's a secret in all and the sky i love found all my life__
 
 __i've been afraid of me, i've been afraid by i've been tryna by you i've been thinking__
 
-__i've been dreaming of you __
+__i've been dreaming of you__
 
-__i've been dreaming of you __
+__i've been dreaming of you__
 
 __i've been dreaming of you, dreaming of you, been dreaming of you__
 
 __i've been dreaming of you, dreaming of you all of your life,__
 
-__i've been dreaming of you __
+__i've been dreaming of you__
 
-__i've been dreaming of you __
-
-__i've been dreaming of you, dreaming of you all my life,__
-
-__i've been dreaming of you __
-
-__i've been dreaming of you __
+__i've been dreaming of you__
 
 __i've been dreaming of you, dreaming of you all my life,__
 
-__i've been dreaming of you __
+__i've been dreaming of you__
 
-__i've been dreaming of you __
+__i've been dreaming of you__
 
 __i've been dreaming of you, dreaming of you all my life,__
 
-__i've been dreaming of you __
+__i've been dreaming of you__
+
+__i've been dreaming of you__
+
+__i've been dreaming of you, dreaming of you all my life,__
+
+__i've been dreaming of you__
 
 __i've been dreaming of"__
 
