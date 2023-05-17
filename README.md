@@ -22,43 +22,43 @@ beginning = "Michael Jordan is"
 n_words = 155
 complete_this_song(beginning, n_words)
 ```
-__"Michael Jordan is it done y girl free i'm just out in the world__
+_"Michael Jordan is it done y girl free i'm just out in the world_
 
-__you know you're love to you know__
+_you know you're love to you know_
 
-__it's a secret in all and the sky i love found all my life__
+_it's a secret in all and the sky i love found all my life_
 
-__i've been afraid of me, i've been afraid by i've been tryna by you i've been thinking__
+_i've been afraid of me, i've been afraid by i've been tryna by you i've been thinking_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you, dreaming of you, been dreaming of you__
+_i've been dreaming of you, dreaming of you, been dreaming of you_
 
-__i've been dreaming of you, dreaming of you all of your life,__
+_i've been dreaming of you, dreaming of you all of your life,_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you, dreaming of you all my life,__
+_i've been dreaming of you, dreaming of you all my life,_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you, dreaming of you all my life,__
+_i've been dreaming of you, dreaming of you all my life,_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of you, dreaming of you all my life,__
+_i've been dreaming of you, dreaming of you all my life,_
 
-__i've been dreaming of you__
+_i've been dreaming of you_
 
-__i've been dreaming of"__
+_i've been dreaming of"_
 
 With the model trained with all songs we get:
 ```
@@ -66,53 +66,53 @@ beginning = "Is this love"
 n_words = 300
 complete_this_song(beginning, n_words)
 ```
-__"Is this love you' h town__
+_"Is this love you' h town_
 
-__i'm coming in it with our love__
+_i'm coming in it with our love_
 
-__i'm so good for my body__
+_i'm so good for my body_
 
-__i know you for you all__
+_i know you for you all_
 
-__that you must not the one to the left to the left__
+_that you must not the one to the left to the left_
 
-__everything you want to the good of your heart__
+_everything you want to the good of your heart_
 
-__everything you were the one i hoped i was__
+_everything you were the one i hoped i was_
 
-__just a way you a way you know how i saw the real you__
+_just a way you a way you know how i saw the real you_
 
-__thank god you blew it__
+_thank god you blew it_
 
-__thank god i dodged the bullet__
+_thank god i dodged the bullet_
 
-__i'm so over you so baby good lookin' out__
+_i'm so over you so baby good lookin' out_
 
-__i wanted you bad i'm so through with it__
+_i wanted you bad i'm so through with it_
 
-__cuz honestly you turned out to be the best thing i never ha__
+_cuz honestly you turned out to be the best thing i never ha_
 
-__and i'm gon' always be the best thing you never had__
+_and i'm gon' always be the best thing you never had_
 
-__i bet it sucks to be you right now so sad you're hurt boo hoo__
+_i bet it sucks to be you right now so sad you're hurt boo hoo_
 
-__oh did you expect me to care__
+_oh did you expect me to care_
 
-__you don't deserve my tears__
+_you don't deserve my tears_
 
-__i guess that's why they ain't there__
+_i guess that's why they ain't there_
 
-__when i think that there was a time that i almost loved you__
+_when i think that there was a time that i almost loved you_
 
-__you showed you ass and i saw the real you__
+_you showed you ass and i saw the real you_
 
-__thank god you blew it__
+_thank god you blew it_
 
-__thank god i dodged the bullet__
+_thank god i dodged the bullet_
 
-__i'm so over you so baby good lookin' out__
+_i'm so over you so baby good lookin' out_
 
-__i wanted you bad"__
+_i wanted you bad"_
 
 ## Conclusions
 
