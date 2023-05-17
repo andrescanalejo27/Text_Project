@@ -22,43 +22,43 @@ beginning = "Michael Jordan is"
 n_words = 155
 complete_this_song(beginning, n_words)
 ```
-__"Michael Jordan is it done y girl free i'm just out in the world
+__"Michael Jordan is it done y girl free i'm just out in the world__
 
-you know you're love to you know
+__you know you're love to you know__
 
-it's a secret in all and the sky i love found all my life
+__it's a secret in all and the sky i love found all my life__
 
-i've been afraid of me, i've been afraid by i've been tryna by you i've been thinking
+__i've been afraid of me, i've been afraid by i've been tryna by you i've been thinking__
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you, dreaming of you, been dreaming of you
+__i've been dreaming of you, dreaming of you, been dreaming of you__
 
-i've been dreaming of you, dreaming of you all of your life,
+__i've been dreaming of you, dreaming of you all of your life,__
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you, dreaming of you all my life,
+__i've been dreaming of you, dreaming of you all my life,__
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you, dreaming of you all my life,
+__i've been dreaming of you, dreaming of you all my life,__
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of you, dreaming of you all my life,
+__i've been dreaming of you, dreaming of you all my life,__
 
-i've been dreaming of you 
+__i've been dreaming of you __
 
-i've been dreaming of"__
+__i've been dreaming of"__
 
 With the model trained with all songs we get:
 ```
@@ -66,53 +66,53 @@ beginning = "Is this love"
 n_words = 300
 complete_this_song(beginning, n_words)
 ```
-__"Is this love you' h town
+__"Is this love you' h town__
 
-i'm coming in it with our love
+__i'm coming in it with our love__
 
-i'm so good for my body
+__i'm so good for my body__
 
-i know you for you all
+__i know you for you all__
 
-that you must not the one to the left to the left
+__that you must not the one to the left to the left__
 
-everything you want to the good of your heart
+__everything you want to the good of your heart__
 
-everything you were the one i hoped i was
+__everything you were the one i hoped i was__
 
-just a way you a way you know how i saw the real you
+__just a way you a way you know how i saw the real you__
 
-thank god you blew it
+__thank god you blew it__
 
-thank god i dodged the bullet
+__thank god i dodged the bullet__
 
-i'm so over you so baby good lookin' out
+__i'm so over you so baby good lookin' out__
 
-i wanted you bad i'm so through with it
+__i wanted you bad i'm so through with it__
 
-cuz honestly you turned out to be the best thing i never ha
+__cuz honestly you turned out to be the best thing i never ha__
 
-and i'm gon' always be the best thing you never had
+__and i'm gon' always be the best thing you never had__
 
-i bet it sucks to be you right now so sad you're hurt boo hoo
+__i bet it sucks to be you right now so sad you're hurt boo hoo__
 
-oh did you expect me to care
+__oh did you expect me to care__
 
-you don't deserve my tears
+__you don't deserve my tears__
 
-i guess that's why they ain't there
+__i guess that's why they ain't there__
 
-when i think that there was a time that i almost loved you
+__when i think that there was a time that i almost loved you__
 
-you showed you ass and i saw the real you
+__you showed you ass and i saw the real you__
 
-thank god you blew it
+__thank god you blew it__
 
-thank god i dodged the bullet
+__thank god i dodged the bullet__
 
-i'm so over you so baby good lookin' out
+__i'm so over you so baby good lookin' out__
 
-i wanted you bad"__
+__i wanted you bad"__
 
 ## Conclusions
 
